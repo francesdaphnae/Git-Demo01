@@ -7,3 +7,4 @@ testing seeing the previous version or changes in this file
 3rd line added in Feature-1. 
 4th line added from local repo.
 5th line edit from remote.
+6th line edit from remote.
